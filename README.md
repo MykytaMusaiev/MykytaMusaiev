@@ -17,3 +17,10 @@ I'm Mykyta Musaiev a Frontend developer in JavaScript, React, and Redux with a s
 - :paperclip: [Portfolio (CV included)](https://portfolio-mykytam.vercel.app/)
 - :email: [Contact Me]n.musaiev@gmail.com
 <br/>
+
+### My stats ⭐
+
+<div align="center">
+<img align="left" width="47%" alt="Mykyta's GitHub stats"  src="https://github-readme-stats.vercel.app/api?username=MykytaMusaiev&show_icons=true&theme=transparent"/>
+<img align="right" width="47%" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MykytaMusaiev&layout=compact&&langs_count=8"/>
+</div>
