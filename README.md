@@ -19,7 +19,7 @@ I'm Mykyta Musaiev a Frontend developer in JavaScript, React, and Redux with a s
 
 ### Portfolio
 - :paperclip: [Portfolio (CV included)](https://portfolio-mykytam.vercel.app/)
-- :email: [Contact Me](mailto:m.musaiev.dev@gmail.com)
+- :email: [Contact Me](m.musaiev.dev@gmail.com)
 <br/>
 
 ### My stats ⭐
