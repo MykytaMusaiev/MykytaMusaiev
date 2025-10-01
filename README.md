@@ -5,7 +5,7 @@ I'm Mykyta Musaiev a Frontend developer in JavaScript, React, and Redux with a s
 📫 Reach me out
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mykyta_Musaiev-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykyta-musaiev/) 
-[![Mail Badge](https://img.shields.io/badge/-Mykyta_Musaiev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:n.musaiev@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-Mykyta_Musaiev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:m.musaiev.dev@gmail.com)
 
 #### Top Technologies
 
